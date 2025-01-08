@@ -2,7 +2,7 @@
   functions = "functions"
   command = "netlify-lambda install && mkdir ./public"
 [template.environment]
-  FAUNA_SECRET_KEY = "419492634575241419"
+  FAUNA_SECRET_KEY = "fnacapi_omd2ZXJzaW9uAWdwYXlsb2FkWFiiYmlkcjQxOTQ5MzM4OTgxMDAwODY1MGZzZWNyZXR4OG12SUhiWENWV1p3ZmtWS3dpUW9EdWZKVmo4OG96eFpwaGV6WTBlKzBNa3FMMmZjUGh4S2pGZz09"
   TELEGRAM_BOT_TOKEN = "7707021366:AAGxNOEhtn63SmLDGC1dLzxnbUB0q0Vnu4A"
 [[redirects]]
   from = "/api/*"
